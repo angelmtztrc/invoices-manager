@@ -12,7 +12,9 @@ module.exports = function (api) {
             '@layouts': './src/components/layouts',
             '@molecules': './src/components/molecules',
             '@organisms': './src/components/organisms',
-            '@screens': './src/screens'
+            '@hooks': './src/hooks',
+            '@screens': './src/screens',
+            '@utils': './src/utils'
           }
         }
       ]

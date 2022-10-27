@@ -17,7 +17,9 @@
       "@layouts": ["./src/components/layouts/index"],
       "@molecules": ["./src/components/molecules/index"],
       "@organisms": ["./src/components/organisms/index"],
-      "@screens": ["./src/screens/index"]
+      "@hooks": ["./src/hooks/index"],
+      "@screens": ["./src/screens/index"],
+      "@utils/*": ["./src/utils/*"]
     }
   },
   "exclude": [
